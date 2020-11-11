@@ -162,7 +162,7 @@ All the recommended files and directories from the steps above should look like 
 ```
 .
 ├── config
-│   ├── connection.js
+│   ├── connection.js 
 │   └── orm.js
 │ 
 ├── controllers
