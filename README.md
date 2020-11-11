@@ -19,4 +19,4 @@ MySQL, Node, Express, Handlebars and a homemade ORM.
 
 
 ## Credits
-Based off of TA Paul's example
+Based off of TA Paul's example and class activities
